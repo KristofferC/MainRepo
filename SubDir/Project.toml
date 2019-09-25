@@ -1,0 +1,4 @@
+name = "SubDir"
+uuid = "900e8cb0-769c-498e-8a8f-96319b17ce13"
+authors = ["fds <fds>"]
+version = "0.1.0"
